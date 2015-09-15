@@ -1,5 +1,3 @@
-Against your name write the date 9/18/2015 if you are present and submit a pull request
-
 - Aaron	Cheng 
 - Alvin	Leung
 - Aman	Zargarpur
